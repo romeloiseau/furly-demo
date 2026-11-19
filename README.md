@@ -9,3 +9,5 @@ Version web de démonstration de Furly, l'application qui regroupe les services 
 - Les comptes créés ici (propriétaire, pet sitter, entreprise) sont de **vrais comptes**, enregistrés de façon
   sécurisée dans la base de données de Furly (Supabase, au Canada).
 - Ce dépôt ne contient que le site déjà construit ; le code source est dans un dépôt privé.
+- Design : « Redesign D » — fond crème, six couleurs vives, Bricolage Grotesque et DM Sans, surfaces posées
+  par une ombre douce. La planche complète du système est à l'adresse `/design-system`.
